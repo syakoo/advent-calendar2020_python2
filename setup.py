@@ -2,7 +2,7 @@ import setuptools
 
 
 setuptools.setup(
-    name="Hello World",
+    name="hello-world",
     version="0.1",
     author="syakoo",
     author_email="hogehoge@hoge.hoge",
