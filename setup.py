@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="Hello World",
-    version="0.0",
+    version="0.1",
     author="syakoo",
     author_email="hogehoge@hoge.hoge",
     description="Say Hello.",
